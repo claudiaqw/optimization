@@ -1,0 +1,42 @@
+
+# Demanda de personal en los turnos
+
+Turno 0: 4
+Turno 1: 1
+Turno 2: 5
+Turno 3: 2
+
+
+# Coste de mano de obra y Disponibilidad
+
+David: 
+    Disponibilidad: [0, 1, 3],
+    Coste de mano de obra: 20,
+
+Enrique: 
+    Disponibilidad: [1, 2, 3],
+    Coste de mano de obra: 15,
+
+Antonio: 
+    Disponibilidad: [2, 3],
+    Coste de mano de obra: 35,
+
+Lucía: 
+    Disponibilidad: [3, 2],
+    Coste de mano de obra: 35,
+
+Eva: 
+    Disponibilidad: [0, 2, 3],
+    Coste de mano de obra: 25,
+
+Tomás: 
+    Disponibilidad: [1, 2, 3],
+    Coste de mano de obra: 30,
+
+Juan: 
+    Disponibilidad: [0, 2, 3],
+    Coste de mano de obra: 20,
+
+Ana: 
+    Disponibilidad: [0, 1, 2],
+    Coste de mano de obra: 20
